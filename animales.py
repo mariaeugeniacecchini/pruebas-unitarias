@@ -1,2 +1,2 @@
 def obtener_nombres():
-    return ["leon", "jirafa","gato"]
+    return ["leon", "jirafa","gato","perro"]
